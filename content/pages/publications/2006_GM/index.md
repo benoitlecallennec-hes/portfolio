@@ -20,8 +20,9 @@ In this paper, we present an interactive motion deformation method to modify ani
 <div class="[&>figure]:my-4">
 </div>
 
-{{% /columns %}}
-
 [Related project]({{< relref "/pages/projects/2001_rnd_motionediting/" >}})
 
 [View at publisher](https://www.sciencedirect.com/science/article/abs/pii/S1524070305000263)
+
+{{% /columns %}}
+
