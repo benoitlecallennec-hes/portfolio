@@ -1,0 +1,9 @@
+{{- $ratio := (split (.Get "ratio") ":") -}}
+<div class="flex flex-row {{ with .Get "class" }} {{ . }}{{ end }}">
+{{ range $index, $content := split .InnerDeindent "<--->" }}
+  {{- $grow := default 1 (index $ratio $index) -}}
+  <div class="flex-1" style="flex-grow: {{ $grow }};">
+    {{ $content | safeHTML }}
+  </div>
+{{ end }}
+</div>

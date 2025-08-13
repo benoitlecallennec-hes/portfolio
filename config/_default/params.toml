@@ -1,0 +1,76 @@
+colorScheme = "hearc"
+defaultAppearance = "light"
+autoSwitchAppearance = false
+enableSearch = false
+enableCodeCopy = true
+
+[header]
+layout = "fixed-fill-blur"
+
+[footer]
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = false
+showScrollToTop = true
+
+[homepage]
+layout = "page" # hearc-home / page / profile
+homepageImage = "image.jpg"
+showRecent = false
+showRecentItems = 12
+showMoreLink = true
+showMoreLinkDest = "/pages"
+cardView = true
+cardViewScreenWidth = true
+layoutBackgroundBlur = true
+
+[article]
+showDate = false
+showDateUpdated = false
+showAuthor = false
+showHero = false
+heroStyle = "basic"
+showBreadcrumbs = false
+showDraftLabel = false
+showEdit = false
+editURL = "https://github.com/username/repo/"
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = false
+invertPagination = true
+showReadingTime = false
+showTableOfContents = false
+showTaxonomies = true
+showAuthorsBadges = true
+showWordCount = false
+showSummary = false
+
+[list]
+showHero = false
+heroStyle = "background"
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = false
+showSummary = false
+showTableOfContents = false
+showCards = false
+groupByYear = false
+cardView = true
+cardViewScreenWidth = true
+
+[sitemap]
+excludedKinds = []
+
+[taxonomy]
+showTermCount = true
+
+[term]
+cardView = true
+cardViewScreenWidth = false
+groupByYear = false
+
+[firebase]
+
+[fathomAnalytics]
+
+[verification]

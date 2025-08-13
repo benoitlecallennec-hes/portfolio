@@ -1,0 +1,26 @@
+{
+  "name": "blowfish_template",
+  "version": "1.0.0",
+  "description": "Blowfish Template",
+  "main": "index.js",
+  "scripts": {
+    "server": "hugo server -b http://localhost -p 8000",
+    "dev": "tailwindcss -c ./themes/blowfish/tailwind.config.js -i ./themes/blowfish/assets/css/main.css -o ./assets/css/compiled/main.css --jit -w",
+    "build": "tailwindcss -c ./themes/blowfish/tailwind.config.js -i ./themes/blowfish/assets/css/main.css -o ./assets/css/compiled/main.css --jit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunocoracao/blowfish_template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nunocoracao/blowfish_template/issues"
+  },
+  "homepage": "https://github.com/nunocoracao/blowfish_template#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.4",
+    "tailwindcss": "^4.1.4"
+  }
+}
