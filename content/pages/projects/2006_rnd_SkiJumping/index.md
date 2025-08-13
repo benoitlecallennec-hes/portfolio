@@ -9,7 +9,7 @@ authors : []
 
 {{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
 
-{{< youtube gnDkld4LsBc >}}
+{{< youtubeLite id="gnDkld4LsBc" label="Ski Jumping (2007-2008)" >}}
 
 ## Publications
 
