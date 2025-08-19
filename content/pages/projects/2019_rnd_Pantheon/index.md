@@ -3,7 +3,7 @@ title: "Pantheon (2019)"
 date: 2025-08-04
 draft: false
 description: "Major Historical Figures Summarized into Small & Fun to Play Cards for Children"
-tags: ["HE-Arc", "Ra&D", "Gamification", "History", "Children Games"]
+tags: ["HE-Arc", "Projects", "Gamification", "History", "Children Games"]
 authors : []
 ---
 

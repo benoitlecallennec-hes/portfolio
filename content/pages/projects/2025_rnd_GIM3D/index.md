@@ -3,7 +3,7 @@ title: "Génération Intuitive de Mouvements 3D (2025)"
 date: 2025-08-13
 draft: false
 description: "Génération Intuitive de Mouvements 3D"
-tags: ["HE-Arc", "Ra&D", "Sports & Rehabilitation", "Animation 3D"]
+tags: ["HE-Arc", "Projects", "Sports & Rehabilitation", "Animation 3D"]
 authors : []
 ---
 

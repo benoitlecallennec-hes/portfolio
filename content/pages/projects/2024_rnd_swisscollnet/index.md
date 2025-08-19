@@ -3,7 +3,7 @@ title: "SwissCollNet (2024)"
 date: 2025-08-12
 draft: false
 description: "Outil de visualisation et de mesure 3D pour spécimens photo-scannés"
-tags: ["HE-Arc", "Ra&D", "Musée & Conservation", "Scan 3D"]
+tags: ["HE-Arc", "Projects", "Musée & Conservation", "Scan 3D"]
 authors : []
 ---
 

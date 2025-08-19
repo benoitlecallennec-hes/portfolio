@@ -3,7 +3,7 @@ title: "Ski Jumping (2007-2008)"
 date: 2025-08-02
 draft: false
 description: "Motion Analysis using Inertial Sensors"
-tags: ["EPFL", "Ra&D", "Motion Analysis", "Ski jumping", "Field measurement", "3D gyroscope and accelerometer"]
+tags: ["EPFL", "Projects", "Motion Analysis", "Ski jumping", "Field measurement", "3D gyroscope and accelerometer"]
 authors : []
 ---
 

@@ -3,7 +3,7 @@ title: "Mosketch (2016-2019)"
 date: 2025-08-03
 draft: false
 description: "Quick and easy 3D character animation"
-tags: ["Moka Studio", "Ra&D", "Computer Animation", "Inverse Kinematics", "Motion Editing", "Sketch-Based Interfaces"]
+tags: ["Moka Studio", "Projects", "Computer Animation", "Inverse Kinematics", "Motion Editing", "Sketch-Based Interfaces"]
 authors : []
 ---
 

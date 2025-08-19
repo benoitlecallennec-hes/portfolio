@@ -3,7 +3,7 @@ title: "Interactive Motion Editing (2001-2006)"
 date: 2025-08-01
 draft: false
 description: "Interactive Techniques For Motion Deformation Of Articulated Figures Using Prioritized Constraints"
-tags: ["EPFL", "Ra&D", "Computer Animation", "Inverse Kinematics", "Motion Editing"]
+tags: ["EPFL", "Projects", "Computer Animation", "Inverse Kinematics", "Motion Editing"]
 authors : []
 ---
 
